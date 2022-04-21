@@ -1,4 +1,4 @@
-default: async4
+default: coroasync3.20
 
 include ../Makefile.h
 	
