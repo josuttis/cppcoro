@@ -29,9 +29,7 @@ Frank Birbacher:
 
 Björn Fahller:
 
- https://speakerdeck.com/rollbear/o-and-coroutines-for-smooth-data-streaming
-
- He has no final code for the public but is happy to give us private access
+ https://speakerdeck.com/rollbear/o-and-coroutines-for-smooth-data-streaming (video/slides)
 
 
 Charles Tolman:
