@@ -61,7 +61,7 @@ https://mariusbancila.ro/blog/2020/06/22/a-cpp20-coroutine-example/
 
 ## More
 
-For some condensed details of how to implement and deal with C++20 coroutines
+For basic details of how C++20 coroutines (concepts and examples)
 see
 
 >  C++20 - The Complete Guide by Nicolai M. Josuttis
