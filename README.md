@@ -5,20 +5,25 @@ Towards a basic C++20 core example for a sequenced async coroutines.
 
 ## Why?
 
+This website tries to come up with a basis sequenced async coroutine example
+we all can use to learn and teach.
+
 
 ## Other sources:
 
-Lewis Baker 2017:
+I am not alone, a lot of programmers want to to that:
+
+**Lewis Baker 2017:**
 
  https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await
 
 
-Lewis Baker 2020:
+**Lewis Baker 2020:**
 
   https://lewissbaker.github.io/2020/05/11/understanding_symmetric_transfer
 
 
-Frank Birbacher:
+**Frank Birbacher:**
 
   https://github.com/birbacher/isocpp-corotask
 
@@ -27,25 +32,25 @@ Frank Birbacher:
    https://github.com/birbacher/isocpp-corotask/blob/main/src/traced.hpp
 
 
-Björn Fahller:
+**Björn Fahller:**
 
  https://speakerdeck.com/rollbear/o-and-coroutines-for-smooth-data-streaming (video/slides)
 
 
-Charles Tolman:
+**Charles Tolman:**
 
   https://gitlab.com/charlest_uk/scheduler_demo
 
   based on initial code I presented in my ACCU 2020 C++20 tutorial
 
 
-Phil Nash and Nico Josuttis (me) came up with a first example in a joined evening session at ACCU 2020:
+**Phil Nash and Nico Josuttis (me)** came up with a first example in a joined evening session at ACCU 2020:
 
   https://github.com/josuttis/cppcoro/blob/main/async_nico_phil/async4.cpp
 
   Here, we especially tried to understand what's going on by placing several log statements
 
-Others:
+**Others:**
 
 https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
 
