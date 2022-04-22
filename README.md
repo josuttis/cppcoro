@@ -50,6 +50,12 @@ I am not alone, a lot of programmers want to to that:
 
   Here, we especially tried to understand what's going on by placing several log statements
 
+**Micha Eiler** came up with an incredible well explained example using all new C++20 features:
+
+https://blog.eiler.eu/posts/20210512/
+(code: https://gist.github.com/MichaEiler/b13771a9e0e403d8a0a082072fd14d68
+ and: ihttps://gist.github.com/MichaEiler/99c3ed529d4fd19c4289fd04672a1a7c)
+
 **Others:**
 
 https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html
