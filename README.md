@@ -53,8 +53,10 @@ I am not alone, a lot of programmers want to to that:
 **Micha Eiler** came up with an incredible well explained example using all new C++20 features:
 
 https://blog.eiler.eu/posts/20210512/
-(code: https://gist.github.com/MichaEiler/b13771a9e0e403d8a0a082072fd14d68
- and: ihttps://gist.github.com/MichaEiler/99c3ed529d4fd19c4289fd04672a1a7c)
+
+* code step1: https://gist.github.com/MichaEiler/b13771a9e0e403d8a0a082072fd14d68
+* code step2: https://gist.github.com/MichaEiler/99c3ed529d4fd19c4289fd04672a1a7c)
+
 
 **Others:**
 
